@@ -33,6 +33,7 @@ body {
     display: flex;
     height: 400px;
     width: 650px;
+    margin: 0px 50px 0px 50px;
     flex-wrap: wrap;
     cursor: pointer;
     border-radius: 20px;
@@ -127,7 +128,6 @@ box-shadow: rgba(27, 24, 24, 0.15) 2px 25px 30px, rgba(0, 0, 0, 0.564) 2px 30px 
     text-align: center;
     align-items: center;
     color: #70c1b3;
-    /* background-color: blanchedalmond; */
 }
 
 .widget .extra-temp .extra-info-leftside {
@@ -189,11 +189,3 @@ box-shadow: rgba(27, 24, 24, 0.15) 2px 25px 30px, rgba(0, 0, 0, 0.564) 2px 30px 
     margin-bottom: 50px;
 }
 
-/*Resize the wrap to see the search bar change!*/
-/* .wrap {
-  width: 30%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
